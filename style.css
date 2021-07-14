@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+body {
+    color: #ffff;
+    background-color: #131415;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 100px;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 150px;
+  }
+
+  .dot {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -250px;
+    width: 220px;
+    height: 220px;
+    border-radius: 110px;
+    background-color: sienna;
+  }
+
+  .line1 {
+    width: 3px;
+    height: 700px;
+    background-color: cornflowerblue;
+    margin-left: 772px;
+  }
+
+  .line2 {
+    width: 3px;
+    height: 700px;
+    background-color: cornflowerblue;
+    margin-top: -700px;
+    margin-left: 798px;
+  }
+
+  .line3 {
+    width: 3px;
+    height: 700px;
+    background-color: cornflowerblue;
+    margin-top: -700px;
+    margin-left: 822px;
+  }
+
+  .line4 {
+    width: 3px;
+    height: 700px;
+    background-color: cornflowerblue;
+    margin-top: -700px;
+    margin-left: 745px;
+  }
+
+  .line5 {
+    width: 3px;
+    height: 700px;
+    background-color: cornflowerblue;
+    margin-top: -700px;
+    margin-left: 715px;
+  }
+
+  .line6 {
+    width: 3px;
+    height: 700px;
+    background-color: cornflowerblue;
+    margin-top: -700px;
+    margin-left: 685px;
+  }
+
+  .gap {
+    margin-bottom: 50px;
+  }
+
+  .string4 {
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: teal;
+    margin-top: -750px;
+    margin-left: 762px;
+    text-align: center;
+  }
+
+  .string5 {
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: teal;
+    margin-left: 790px;
+    text-align: center;
+    margin-top: -22px;
+  }
+
+  .string6 {
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: teal;
+    margin-left: 817px;
+    text-align: center;
+    margin-top: -22px;
+  }
+
+  .string3 {
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: teal;
+    margin-left: 735px;
+    text-align: center;
+    margin-top: -22px;
+  }
+
+  .string2 {
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: teal;
+    margin-left: 705px;
+    text-align: center;
+    margin-top: -22px;
+  }
+
+  .string1 {
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: teal;
+    margin-left: 675px;
+    text-align: center;
+    margin-top: -22px;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 800px;
+    font-size: 30px;
+    background-color: transparent;
+    font-style: oblique;
+  }
